@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "424068817034",
+    "firebase_url": "https://socialmedia-df48e.firebaseio.com",
+    "project_id": "socialmedia-df48e",
+    "storage_bucket": "socialmedia-df48e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424068817034:android:9b30350b77844935ae4d73",
+        "android_client_info": {
+          "package_name": "com.rozdoum.socialcomponents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424068817034-ts6vbauiqj3k5nda8ltnh82hv1kc1usl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rozdoum.socialcomponents",
+            "certificate_hash": "e7978378d1d059767496774f00ca71a2460eb0ef"
+          }
+        },
+        {
+          "client_id": "424068817034-1hnqbe3urmgpuii47r48i8m7r2l38k1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuRoeWe-7AwIWXHTJzAr9YHGDKhDsNOGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424068817034-1hnqbe3urmgpuii47r48i8m7r2l38k1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
