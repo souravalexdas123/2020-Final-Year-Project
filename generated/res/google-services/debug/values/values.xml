@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">424068817034-1hnqbe3urmgpuii47r48i8m7r2l38k1g.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://socialmedia-df48e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">424068817034</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuRoeWe-7AwIWXHTJzAr9YHGDKhDsNOGk</string>
+    <string name="google_app_id" translatable="false">1:424068817034:android:9b30350b77844935ae4d73</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuRoeWe-7AwIWXHTJzAr9YHGDKhDsNOGk</string>
+    <string name="google_storage_bucket" translatable="false">socialmedia-df48e.appspot.com</string>
+    <string name="project_id" translatable="false">socialmedia-df48e</string>
+</resources>
