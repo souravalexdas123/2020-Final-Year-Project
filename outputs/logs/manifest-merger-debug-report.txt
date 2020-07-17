@@ -1,0 +1,698 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:2:1-112:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\0386bf7793349fd2e35b8b88af7ab131\design-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:21:1-40:12
+MERGED from [com.google.firebase:firebase-database:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\fc905edd25a7c49aa21152ea938a5cbd\firebase-database-15.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-storage:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\914d8118f508eb0782387bf26d8b62ea\firebase-storage-15.0.2\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b469cc0f95031777fe1d759128783bd\firebase-messaging-15.0.2\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c8b6cdb8b66bd324da11c08c4364b12b\firebase-core-15.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-database-connection:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\2ccb421354a45e7e2595fed3d29bc421\firebase-database-connection-15.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-auth-interop:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ea83851ee4bec2b7364db761502ccca8\firebase-auth-interop-15.0.2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:17:1-41:12
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6e2d371138f15b3cd90fb62ee9993098\firebase-common-15.0.1\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\16190aa10d73a61049174a8fea8eefc7\play-services-flags-15.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\270d716c0168ab64a203c9e992bc9f03\play-services-auth-api-phone-15.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\2bb0de30025567c2d23afffd72220ec1\play-services-auth-base-15.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6039943839afa3f0d45702826b4bee64\firebase-iid-interop-15.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ba41bcf21a8c889fd105f3e0b1dbf4d2\play-services-base-15.0.1\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\19fb39ebbf7230bf33760c873d8ad741\play-services-tasks-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\bed558720654f54dd73cd32c0ecf1ebb\firebase-database-collection-15.0.1\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e03b5597839572f1a108618245f18029\firebase-storage-common-15.0.2\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1540f292a49bc2ebe45474e891e864eb\firebase-measurement-connector-15.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d36e2f5ff48f71d31568cf8ee356b1e8\play-services-stats-15.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\94ec128d85a61d6f8a58444381b75f91\play-services-ads-identifier-15.0.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44f20cbe30ef92be9c1a80c924520a9a\play-services-basement-15.0.1\AndroidManifest.xml:17:1-28:12
+MERGED from [com.hannesdorfmann.mosby3:mvp:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\885b0b68872898736c6353de624d4ae7\mvp-3.1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.hannesdorfmann.mosby3:presentermanager:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\cb7330f77b1ecdc92a0bc638e6f216b5\presentermanager-3.1.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\4b31529d73b28171e1ce429289989e84\support-v4-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\b0dab8a3830f11cf97c7dda9834833a8\android-image-cropper-2.6.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.hannesdorfmann.mosby3:utils-fragment:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5db55e8887a33f1f9d3b1362b0497369\utils-fragment-3.1.0\AndroidManifest.xml:18:1-29:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\b988cdd5a5085c2925438945d613f658\appcompat-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c72a762df84bc8ec5778dd3259e998a1\animated-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\b9f00d5f6d6483ce6d349c6e2f15b13f\customtabs-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\a2e86948f947b55d6a1b886540bf9bd1\cardview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\76c3f684588b8f16d272bd93ba3b953c\glide-4.6.1\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b2daad4df374d7d09bfe28c6834d3aa\constraint-layout-1.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\dbe2f80b431afb07afab45af3b109143\support-media-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d6a573776fc2dfb5126e85675a6e5432\support-fragment-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\055833e00efd726c158dea769574e7ea\recyclerview-v7-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c3fdd25a6995412c572890777c6cf612\support-core-ui-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8544886848f63368f26e849db0ea03fe\support-core-utils-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\30917e0f8f5f6dcca12e5fc511cc0e53\support-vector-drawable-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\fecd741c6e3abcd2c59bd7a54e2aa84c\transition-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\01f5049e7d8633cc5f97c172ca45f09a\support-compat-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\16e9b13c9a4a1ba6e63832277c14b324\gifdecoder-4.6.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\95df7b0e7e91e99cba97e71024c2a1eb\exifinterface-27.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d6d381a05cf32f61e866555333af7dd3\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\f4906c7e09d9f2b155fbc45fe418d6ea\livedata-core-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44a523bf1fe419bb3e98e9cfae0c95de\viewmodel-1.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6238424367d274f14b9fe80fe4c8c661\play-services-measurement-base-15.0.2\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\475c2b2601d46029c4ffd0c044056f6e\runtime-1.1.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:2:1-112:12
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:2:1-112:12
+	package
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:4:5-43
+		INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:2:1-112:12
+		INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:2:1-112:12
+		INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.READ_LOGS
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:12:5-13:47
+	tools:ignore
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:13:9-44
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.CAMERA
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:14:5-65
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:14:22-62
+application
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:16:5-110:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b469cc0f95031777fe1d759128783bd\firebase-messaging-15.0.2\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b469cc0f95031777fe1d759128783bd\firebase-messaging-15.0.2\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c8b6cdb8b66bd324da11c08c4364b12b\firebase-core-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c8b6cdb8b66bd324da11c08c4364b12b\firebase-core-15.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth-interop:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ea83851ee4bec2b7364db761502ccca8\firebase-auth-interop-15.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ea83851ee4bec2b7364db761502ccca8\firebase-auth-interop-15.0.2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:28:5-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6e2d371138f15b3cd90fb62ee9993098\firebase-common-15.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6e2d371138f15b3cd90fb62ee9993098\firebase-common-15.0.1\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6039943839afa3f0d45702826b4bee64\firebase-iid-interop-15.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6039943839afa3f0d45702826b4bee64\firebase-iid-interop-15.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ba41bcf21a8c889fd105f3e0b1dbf4d2\play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ba41bcf21a8c889fd105f3e0b1dbf4d2\play-services-base-15.0.1\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\19fb39ebbf7230bf33760c873d8ad741\play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\19fb39ebbf7230bf33760c873d8ad741\play-services-tasks-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1540f292a49bc2ebe45474e891e864eb\firebase-measurement-connector-15.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1540f292a49bc2ebe45474e891e864eb\firebase-measurement-connector-15.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d36e2f5ff48f71d31568cf8ee356b1e8\play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d36e2f5ff48f71d31568cf8ee356b1e8\play-services-stats-15.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\94ec128d85a61d6f8a58444381b75f91\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\94ec128d85a61d6f8a58444381b75f91\play-services-ads-identifier-15.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44f20cbe30ef92be9c1a80c924520a9a\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44f20cbe30ef92be9c1a80c924520a9a\play-services-basement-15.0.1\AndroidManifest.xml:22:5-26:19
+MERGED from [com.hannesdorfmann.mosby3:mvp:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\885b0b68872898736c6353de624d4ae7\mvp-3.1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.hannesdorfmann.mosby3:mvp:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\885b0b68872898736c6353de624d4ae7\mvp-3.1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.hannesdorfmann.mosby3:presentermanager:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\cb7330f77b1ecdc92a0bc638e6f216b5\presentermanager-3.1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.hannesdorfmann.mosby3:presentermanager:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\cb7330f77b1ecdc92a0bc638e6f216b5\presentermanager-3.1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.hannesdorfmann.mosby3:utils-fragment:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5db55e8887a33f1f9d3b1362b0497369\utils-fragment-3.1.0\AndroidManifest.xml:27:5-20
+MERGED from [com.hannesdorfmann.mosby3:utils-fragment:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5db55e8887a33f1f9d3b1362b0497369\utils-fragment-3.1.0\AndroidManifest.xml:27:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\76c3f684588b8f16d272bd93ba3b953c\glide-4.6.1\AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\76c3f684588b8f16d272bd93ba3b953c\glide-4.6.1\AndroidManifest.xml:11:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b2daad4df374d7d09bfe28c6834d3aa\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b2daad4df374d7d09bfe28c6834d3aa\constraint-layout-1.1.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\16e9b13c9a4a1ba6e63832277c14b324\gifdecoder-4.6.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\16e9b13c9a4a1ba6e63832277c14b324\gifdecoder-4.6.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6238424367d274f14b9fe80fe4c8c661\play-services-measurement-base-15.0.2\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6238424367d274f14b9fe80fe4c8c661\play-services-measurement-base-15.0.2\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:22:9-40
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:17:9-36
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:23:9-107
+	android:value
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:23:66-105
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:23:20-65
+activity#com.rozdoum.socialcomponents.main.main.MainActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:25:13-59
+	android:theme
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:26:13-57
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:24:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.rozdoum.socialcomponents.main.postDetails.PostDetailsActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:33:9-36:66
+	android:label
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:36:13-63
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:35:13-59
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:34:13-65
+activity#com.rozdoum.socialcomponents.main.post.createPost.CreatePostActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:37:9-40:66
+	android:label
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:40:13-63
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:39:13-59
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:38:13-68
+activity#com.rozdoum.socialcomponents.main.imageDetail.ImageDetailActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:41:9-45:66
+	android:label
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:44:13-64
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:43:13-59
+	android:theme
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:45:13-63
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:42:13-65
+activity#com.rozdoum.socialcomponents.main.login.LoginActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:46:9-49:60
+	android:label
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:48:13-57
+	android:theme
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:49:13-57
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:47:13-53
+activity#com.rozdoum.socialcomponents.main.editProfile.createProfile.CreateProfileActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:50:9-53:68
+	android:label
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:53:13-66
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:52:13-59
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:51:13-109
+activity#com.theartofdev.edmodo.cropper.CropImageActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:54:9-55:58
+	android:theme
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:54:19-82
+activity#com.rozdoum.socialcomponents.main.profile.ProfileActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:56:9-60:62
+	android:label
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:60:13-59
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:59:13-59
+	android:theme
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:58:13-57
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:57:13-57
+activity#com.rozdoum.socialcomponents.main.editProfile.EditProfileActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:61:9-64:67
+	android:label
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:64:13-64
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:63:13-59
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:62:13-65
+activity#com.rozdoum.socialcomponents.main.post.editPost.EditPostActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:66:9-69:64
+	android:label
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:69:13-61
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:68:13-59
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:67:13-64
+activity#com.rozdoum.socialcomponents.main.usersList.UsersListActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:71:9-73:61
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:73:13-59
+	android:theme
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:72:13-57
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:71:19-67
+activity#com.rozdoum.socialcomponents.main.followPosts.FollowingPostsActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:75:9-78:69
+	android:label
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:78:13-67
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:77:13-59
+	android:theme
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:76:13-57
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:75:19-74
+activity#com.rozdoum.socialcomponents.main.search.SearchActivity
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:80:9-91:20
+	android:windowSoftInputMode
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:83:13-55
+	android:configChanges
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:82:13-59
+	android:theme
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:84:13-57
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:81:13-55
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:85:13-87:29
+action#android.intent.action.SEARCH
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:86:17-71
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:86:25-68
+meta-data#android.app.searchable
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:89:13-90:54
+	android:resource
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:90:17-51
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:89:24-61
+meta-data#io.fabric.ApiKey
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:93:9-95:72
+	android:value
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:95:13-69
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:94:13-44
+service#com.rozdoum.socialcomponents.services.MyFirebaseMessagingService
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:97:9-102:19
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:98:13-64
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:99:13-101:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:100:17-77
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:100:25-75
+service#com.rozdoum.socialcomponents.services.MyFirebaseInstanceIDService
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:104:9-109:19
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:105:13-65
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:106:13-108:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml:107:25-77
+uses-sdk
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\0386bf7793349fd2e35b8b88af7ab131\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\0386bf7793349fd2e35b8b88af7ab131\design-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.firebase:firebase-database:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\fc905edd25a7c49aa21152ea938a5cbd\firebase-database-15.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\fc905edd25a7c49aa21152ea938a5cbd\firebase-database-15.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\914d8118f508eb0782387bf26d8b62ea\firebase-storage-15.0.2\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\914d8118f508eb0782387bf26d8b62ea\firebase-storage-15.0.2\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b469cc0f95031777fe1d759128783bd\firebase-messaging-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b469cc0f95031777fe1d759128783bd\firebase-messaging-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c8b6cdb8b66bd324da11c08c4364b12b\firebase-core-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c8b6cdb8b66bd324da11c08c4364b12b\firebase-core-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\2ccb421354a45e7e2595fed3d29bc421\firebase-database-connection-15.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\2ccb421354a45e7e2595fed3d29bc421\firebase-database-connection-15.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ea83851ee4bec2b7364db761502ccca8\firebase-auth-interop-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ea83851ee4bec2b7364db761502ccca8\firebase-auth-interop-15.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6e2d371138f15b3cd90fb62ee9993098\firebase-common-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6e2d371138f15b3cd90fb62ee9993098\firebase-common-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\16190aa10d73a61049174a8fea8eefc7\play-services-flags-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\16190aa10d73a61049174a8fea8eefc7\play-services-flags-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\270d716c0168ab64a203c9e992bc9f03\play-services-auth-api-phone-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\270d716c0168ab64a203c9e992bc9f03\play-services-auth-api-phone-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\2bb0de30025567c2d23afffd72220ec1\play-services-auth-base-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\2bb0de30025567c2d23afffd72220ec1\play-services-auth-base-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6039943839afa3f0d45702826b4bee64\firebase-iid-interop-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6039943839afa3f0d45702826b4bee64\firebase-iid-interop-15.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ba41bcf21a8c889fd105f3e0b1dbf4d2\play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ba41bcf21a8c889fd105f3e0b1dbf4d2\play-services-base-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\19fb39ebbf7230bf33760c873d8ad741\play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\19fb39ebbf7230bf33760c873d8ad741\play-services-tasks-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\bed558720654f54dd73cd32c0ecf1ebb\firebase-database-collection-15.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\bed558720654f54dd73cd32c0ecf1ebb\firebase-database-collection-15.0.1\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e03b5597839572f1a108618245f18029\firebase-storage-common-15.0.2\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e03b5597839572f1a108618245f18029\firebase-storage-common-15.0.2\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1540f292a49bc2ebe45474e891e864eb\firebase-measurement-connector-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1540f292a49bc2ebe45474e891e864eb\firebase-measurement-connector-15.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d36e2f5ff48f71d31568cf8ee356b1e8\play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d36e2f5ff48f71d31568cf8ee356b1e8\play-services-stats-15.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\94ec128d85a61d6f8a58444381b75f91\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\94ec128d85a61d6f8a58444381b75f91\play-services-ads-identifier-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44f20cbe30ef92be9c1a80c924520a9a\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44f20cbe30ef92be9c1a80c924520a9a\play-services-basement-15.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.hannesdorfmann.mosby3:mvp:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\885b0b68872898736c6353de624d4ae7\mvp-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hannesdorfmann.mosby3:mvp:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\885b0b68872898736c6353de624d4ae7\mvp-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hannesdorfmann.mosby3:presentermanager:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\cb7330f77b1ecdc92a0bc638e6f216b5\presentermanager-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.hannesdorfmann.mosby3:presentermanager:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\cb7330f77b1ecdc92a0bc638e6f216b5\presentermanager-3.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\4b31529d73b28171e1ce429289989e84\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\4b31529d73b28171e1ce429289989e84\support-v4-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\b0dab8a3830f11cf97c7dda9834833a8\android-image-cropper-2.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\b0dab8a3830f11cf97c7dda9834833a8\android-image-cropper-2.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.hannesdorfmann.mosby3:utils-fragment:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5db55e8887a33f1f9d3b1362b0497369\utils-fragment-3.1.0\AndroidManifest.xml:23:5-25:41
+MERGED from [com.hannesdorfmann.mosby3:utils-fragment:3.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5db55e8887a33f1f9d3b1362b0497369\utils-fragment-3.1.0\AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\b988cdd5a5085c2925438945d613f658\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\b988cdd5a5085c2925438945d613f658\appcompat-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c72a762df84bc8ec5778dd3259e998a1\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c72a762df84bc8ec5778dd3259e998a1\animated-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\b9f00d5f6d6483ce6d349c6e2f15b13f\customtabs-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\b9f00d5f6d6483ce6d349c6e2f15b13f\customtabs-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\a2e86948f947b55d6a1b886540bf9bd1\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\a2e86948f947b55d6a1b886540bf9bd1\cardview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\76c3f684588b8f16d272bd93ba3b953c\glide-4.6.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.6.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\76c3f684588b8f16d272bd93ba3b953c\glide-4.6.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b2daad4df374d7d09bfe28c6834d3aa\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b2daad4df374d7d09bfe28c6834d3aa\constraint-layout-1.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\dbe2f80b431afb07afab45af3b109143\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\dbe2f80b431afb07afab45af3b109143\support-media-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d6a573776fc2dfb5126e85675a6e5432\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d6a573776fc2dfb5126e85675a6e5432\support-fragment-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\055833e00efd726c158dea769574e7ea\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\055833e00efd726c158dea769574e7ea\recyclerview-v7-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c3fdd25a6995412c572890777c6cf612\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\c3fdd25a6995412c572890777c6cf612\support-core-ui-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8544886848f63368f26e849db0ea03fe\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8544886848f63368f26e849db0ea03fe\support-core-utils-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\30917e0f8f5f6dcca12e5fc511cc0e53\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\30917e0f8f5f6dcca12e5fc511cc0e53\support-vector-drawable-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\fecd741c6e3abcd2c59bd7a54e2aa84c\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\fecd741c6e3abcd2c59bd7a54e2aa84c\transition-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\01f5049e7d8633cc5f97c172ca45f09a\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\01f5049e7d8633cc5f97c172ca45f09a\support-compat-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\16e9b13c9a4a1ba6e63832277c14b324\gifdecoder-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.6.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\16e9b13c9a4a1ba6e63832277c14b324\gifdecoder-4.6.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\95df7b0e7e91e99cba97e71024c2a1eb\exifinterface-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\95df7b0e7e91e99cba97e71024c2a1eb\exifinterface-27.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d6d381a05cf32f61e866555333af7dd3\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\d6d381a05cf32f61e866555333af7dd3\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\f4906c7e09d9f2b155fbc45fe418d6ea\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\f4906c7e09d9f2b155fbc45fe418d6ea\livedata-core-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44a523bf1fe419bb3e98e9cfae0c95de\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44a523bf1fe419bb3e98e9cfae0c95de\viewmodel-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6238424367d274f14b9fe80fe4c8c661\play-services-measurement-base-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6238424367d274f14b9fe80fe4c8c661\play-services-measurement-base-15.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\475c2b2601d46029c4ffd0c044056f6e\runtime-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\475c2b2601d46029c4ffd0c044056f6e\runtime-1.1.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\social-app-android-master\app\src\main\AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:33:9-36:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:34:13-58
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:37:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.17.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\63f0186f5d5b6b2dca07abc4e5cdfcd5\facebook-android-sdk-4.17.0\AndroidManifest.xml:37:19-68
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\e14f4bbb8e2efe3362717b94a03e0823\firebase-auth-15.1.0\AndroidManifest.xml:33:17-109
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b469cc0f95031777fe1d759128783bd\firebase-messaging-15.0.2\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b469cc0f95031777fe1d759128783bd\firebase-messaging-15.0.2\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\8b469cc0f95031777fe1d759128783bd\firebase-messaging-15.0.2\AndroidManifest.xml:29:13-82
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\543ddf37af1e23fe03b6856104cc1138\play-services-auth-15.0.1\AndroidManifest.xml:34:13-89
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:15.0.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\5dfae300590ff2ced75757055b5cc7e5\firebase-measurement-connector-impl-15.0.0\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:29:9-33:20
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:34:9-42:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:44:9-47:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:35:9-38:40
+MERGED from [com.google.firebase:firebase-analytics-impl:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\1e2c2c8b8341eef0baebc07d92114771\firebase-analytics-impl-15.0.2\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:15.0.2] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\363f13b87487c19b25fbc3b9fd670d00\firebase-analytics-15.0.2\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:29:9-63
+permission#com.rozdoum.socialcomponents.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:32:22-76
+uses-permission#com.rozdoum.socialcomponents.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:com.rozdoum.socialcomponents
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:48:27-58
+category#com.rozdoum.socialcomponents
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:15.1.0] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6ad32084d0c5b14f463c1183b0a8e0e6\firebase-iid-15.1.0\AndroidManifest.xml:57:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6e2d371138f15b3cd90fb62ee9993098\firebase-common-15.0.1\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6e2d371138f15b3cd90fb62ee9993098\firebase-common-15.0.1\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6e2d371138f15b3cd90fb62ee9993098\firebase-common-15.0.1\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6e2d371138f15b3cd90fb62ee9993098\firebase-common-15.0.1\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\6e2d371138f15b3cd90fb62ee9993098\firebase-common-15.0.1\AndroidManifest.xml:9:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ba41bcf21a8c889fd105f3e0b1dbf4d2\play-services-base-15.0.1\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ba41bcf21a8c889fd105f3e0b1dbf4d2\play-services-base-15.0.1\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ba41bcf21a8c889fd105f3e0b1dbf4d2\play-services-base-15.0.1\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\ba41bcf21a8c889fd105f3e0b1dbf4d2\play-services-base-15.0.1\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44f20cbe30ef92be9c1a80c924520a9a\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44f20cbe30ef92be9c1a80c924520a9a\play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\SOURAV\.gradle\caches\transforms-2\files-2.1\44f20cbe30ef92be9c1a80c924520a9a\play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
